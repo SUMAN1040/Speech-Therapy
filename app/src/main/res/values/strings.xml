@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Speech Therapy</string>
+    <string name="title_home">Home</string>
+    <string name="title_practice">Practice</string>
+    <string name="title_dashboard">Dashboard</string>
+
+    
+    
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="splashScreen">Empower Every Word,Enhance Every Voice!</string>
+
+</resources>
