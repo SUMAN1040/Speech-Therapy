@@ -47,13 +47,15 @@ dependencies {
     implementation libs.androidx.navigation.ui.ktx
     implementation libs.androidx.annotation
     implementation libs.androidx.preference
+    implementation libs.androidx.activity
     testImplementation libs.junit
     androidTestImplementation libs.androidx.junit
     androidTestImplementation libs.androidx.espresso.core
 
 
     //splash screen
-    implementation("androidx.core:core-splashscreen:1.0.0")
+    implementation('com.airbnb.android:lottie:6.1.0')
+    implementation("androidx.core:core-splashscreen:1.0.1")
 
 
 }

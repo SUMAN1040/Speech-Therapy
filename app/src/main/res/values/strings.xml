@@ -4,9 +4,9 @@
     <string name="title_practice">Practice</string>
     <string name="title_dashboard">Dashboard</string>
 
-    
-    
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="splashScreen">Empower Every Word,Enhance Every Voice!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome</string>
+    <string name="splashtext">Speak Confidently, Grow Freely!</string>
 
 </resources>
