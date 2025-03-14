@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Developed By Suman Kumar Dey
+  ~ Linkedln: www.linkedin.com/in/suman1040
+  -->
+
 <resources>
     <array name="com_google_android_gms_fonts_certs">
         <item>@array/com_google_android_gms_fonts_certs_dev</item>
